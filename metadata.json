@@ -1,0 +1,6 @@
+{
+  "name": "Fun with Flags with Dr. Sheldon Cooper",
+  "description": "Đố vui quốc kỳ thế giới cùng Tiến sĩ Sheldon Cooper trong chương trình Fun with Flags kinh điển với phản hồi bác học hài hước.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
